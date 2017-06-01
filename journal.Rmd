@@ -1,0 +1,18 @@
+---
+title: "Recipe Journal"
+output: html_document
+---
+
+
+
+## oragano pesto -- 2017/05/31
+
+5 cloves garlic
+1tsp salt
+1 cup lighlty packed oragano
+1 cup olive oil 
+1 cup raw hazelnuts
+4cm^3 parmasean cheese
+
+It was a little salty by itself, but that is probably good for cooking and preservation. 
+I added it to pasta and it was decent. 7/10
